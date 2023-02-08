@@ -75,5 +75,9 @@ create nested directories
 
 advanced list directory contents seperated by comma
 
+## school.mgc
+
+a magic file
+
 
 
