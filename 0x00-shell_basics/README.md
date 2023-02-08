@@ -42,6 +42,9 @@ Delete a directory
 
 change to previous directory
 
+## 11-lists
+
+list files from multiple directories
 
 
 
