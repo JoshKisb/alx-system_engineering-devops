@@ -21,3 +21,7 @@ List directory content plus hidden files
 ## 5-listfilesdigitonly
 
 List files with numeric uid and gid
+
+## 6-firstdirectory
+
+Create a directory
