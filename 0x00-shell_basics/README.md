@@ -50,5 +50,9 @@ list files from multiple directories
 
 Get file type and info
 
+## 13-symbolic_link
+
+Create a symbolic link (symlink)
+
 
 
