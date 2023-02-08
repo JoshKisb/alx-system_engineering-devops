@@ -34,6 +34,8 @@ Move a file
 
 Delete a file
 
+## 9-firstdirdeletion
 
+Delete a directory
 
 
