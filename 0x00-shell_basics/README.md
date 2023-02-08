@@ -25,3 +25,7 @@ List files with numeric uid and gid
 ## 6-firstdirectory
 
 Create a directory
+
+## 7-movethatfile
+
+Move a file
