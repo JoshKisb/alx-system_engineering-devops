@@ -29,3 +29,11 @@ Create a directory
 ## 7-movethatfile
 
 Move a file
+
+## 8-firstdelete
+
+Delete a file
+
+
+
+
