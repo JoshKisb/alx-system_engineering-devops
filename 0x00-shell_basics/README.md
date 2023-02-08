@@ -17,3 +17,7 @@ List directory content with extra details
 ## 4-listmorefiles
 
 List directory content plus hidden files
+
+## 5-listfilesdigitonly
+
+List files with numeric uid and gid
