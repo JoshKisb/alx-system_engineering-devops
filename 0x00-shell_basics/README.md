@@ -38,4 +38,10 @@ Delete a file
 
 Delete a directory
 
+## 10-back
+
+change to previous directory
+
+
+
 
