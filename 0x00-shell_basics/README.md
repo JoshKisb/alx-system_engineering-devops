@@ -13,3 +13,7 @@ Change to the home directory
 ## 3-listfiles
 
 List directory content with extra details
+
+## 4-listmorefiles
+
+List directory content plus hidden files
