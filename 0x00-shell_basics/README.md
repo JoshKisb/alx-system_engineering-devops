@@ -62,3 +62,7 @@ Copy files if newer of missing
 
 Advanced Move tactics
 
+## 101-clean_emacs
+
+remove emacs temp files
+
