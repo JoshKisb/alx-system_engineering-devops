@@ -46,5 +46,9 @@ change to previous directory
 
 list files from multiple directories
 
+## 12-file_type
+
+Get file type and info
+
 
 
