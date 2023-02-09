@@ -58,5 +58,9 @@ change group permissions
 
 change owner and group of all files
 
+## 101-symbolic_link_permissions
+
+change symlink permissions
+
 
 
