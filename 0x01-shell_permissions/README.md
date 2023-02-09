@@ -41,3 +41,10 @@ set calculated permissions to a file using octal
 ## 10-mirror_permissions
 
 copy permissions from one file to another
+
+## 11-directories_permissions
+
+set permissions to only directories
+
+
+
