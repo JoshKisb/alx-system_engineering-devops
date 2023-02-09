@@ -25,3 +25,7 @@ add execute permissions to file
 ## 6-multiple_permissions
 
 add many different permissions to a file
+
+## 7-everybody
+
+add permissions for all users
