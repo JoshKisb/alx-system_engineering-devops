@@ -33,3 +33,7 @@ add permissions for all users
 ## 8-James_Bond
 
 set permissions for a file using octal
+
+## 9-John_Doe
+
+set calculated permissions to a file using octal
