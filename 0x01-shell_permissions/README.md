@@ -46,5 +46,9 @@ copy permissions from one file to another
 
 set permissions to only directories
 
+## 12-directory_permissions
+
+create and set directory permissions
+
 
 
