@@ -29,3 +29,7 @@ add many different permissions to a file
 ## 7-everybody
 
 add permissions for all users
+
+## 8-James_Bond
+
+set permissions for a file using octal
