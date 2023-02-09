@@ -21,3 +21,7 @@ create an empty file
 ## 5-execute
 
 add execute permissions to file
+
+## 6-multiple_permissions
+
+add many different permissions to a file
