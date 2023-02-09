@@ -62,5 +62,9 @@ change owner and group of all files
 
 change symlink permissions
 
+## 102-if_only
+
+change permission only if previous certain value
+
 
 
