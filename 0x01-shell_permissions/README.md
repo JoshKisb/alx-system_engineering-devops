@@ -9,3 +9,7 @@ print the current user
 ## 2-groups
 
 print current users groups
+
+## 3-new_owner
+
+change owner of a file
