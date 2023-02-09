@@ -17,3 +17,7 @@ change owner of a file
 ## 4-empty
 
 create an empty file
+
+## 5-execute
+
+add execute permissions to file
