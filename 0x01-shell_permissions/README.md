@@ -37,3 +37,7 @@ set permissions for a file using octal
 ## 9-John_Doe
 
 set calculated permissions to a file using octal
+
+## 10-mirror_permissions
+
+copy permissions from one file to another
