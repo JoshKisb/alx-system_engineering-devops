@@ -13,3 +13,7 @@ print current users groups
 ## 3-new_owner
 
 change owner of a file
+
+## 4-empty
+
+create an empty file
