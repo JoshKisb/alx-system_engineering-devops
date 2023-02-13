@@ -77,3 +77,7 @@ display lines that start with a letter
 ## 19-AZ
 
 character replacement
+
+## 20-hiago
+
+delete characters mercilessly
