@@ -57,3 +57,7 @@ print unique lines
 ## 14-findthatword
 
 display lines containing pattern
+
+## 15-countthatword
+
+count lines containing the pattern
