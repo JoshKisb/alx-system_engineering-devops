@@ -49,3 +49,7 @@ count subdirectories
 ## 12-newest_files
 
 list newest files
+
+## 13-unique
+
+print unique lines
