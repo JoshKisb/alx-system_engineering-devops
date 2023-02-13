@@ -13,3 +13,7 @@ display file content
 ## 3-twofiles
 
 display content of 2+ files
+
+## 4-lastlines
+
+display the last lines of a file
