@@ -9,3 +9,7 @@ display confused smiley
 ## 2-hellofile
 
 display file content
+
+## 3-twofiles
+
+display content of 2+ files
