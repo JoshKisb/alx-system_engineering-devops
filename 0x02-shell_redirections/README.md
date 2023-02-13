@@ -93,3 +93,7 @@ sort by column
 ## 100-empty_casks
 
 find empty files and directories
+
+## 101-gifs
+
+list cut sort and do a madness
