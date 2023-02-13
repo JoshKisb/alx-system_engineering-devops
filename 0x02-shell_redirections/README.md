@@ -65,3 +65,7 @@ count lines containing the pattern
 ## 16-whatsnext
 
 print next lines after pattern
+
+## 17-hidethisword
+
+display lines that do not contain the pattern
