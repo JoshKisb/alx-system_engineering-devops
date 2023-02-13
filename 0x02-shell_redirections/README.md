@@ -25,3 +25,11 @@ display the first lines of a file
 ## 6-third_line
 
 print only the third line
+
+## 7-file
+
+weird file name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+## 8-cwd_state
+
+save command output to file
