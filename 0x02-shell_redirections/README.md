@@ -41,3 +41,7 @@ duplicate last line
 ## 10-no_more_js
 
 find delete js files
+
+## 11-directories
+
+count subdirectories
