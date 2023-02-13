@@ -73,3 +73,7 @@ display lines that do not contain the pattern
 ## 18-letteronly
 
 display lines that start with a letter
+
+## 19-AZ
+
+character replacement
