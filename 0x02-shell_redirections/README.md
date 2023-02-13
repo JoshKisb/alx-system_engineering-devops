@@ -17,3 +17,7 @@ display content of 2+ files
 ## 4-lastlines
 
 display the last lines of a file
+
+## 5-firstlines
+
+display the first lines of a file
