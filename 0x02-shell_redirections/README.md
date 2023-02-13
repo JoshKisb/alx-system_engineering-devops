@@ -97,3 +97,7 @@ find empty files and directories
 ## 101-gifs
 
 list cut sort and do a madness
+
+## 102-acrostic
+
+cut and merge
