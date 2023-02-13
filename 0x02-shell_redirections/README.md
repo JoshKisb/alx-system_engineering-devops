@@ -37,3 +37,7 @@ save command output to file
 ## 9-duplicate_last_line
 
 duplicate last line
+
+## 10-no_more_js
+
+find delete js files
