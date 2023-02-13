@@ -33,3 +33,7 @@ weird file name \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 ## 8-cwd_state
 
 save command output to file
+
+## 9-duplicate_last_line
+
+duplicate last line
