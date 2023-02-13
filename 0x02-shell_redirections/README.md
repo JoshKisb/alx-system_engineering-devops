@@ -53,3 +53,7 @@ list newest files
 ## 13-unique
 
 print unique lines
+
+## 14-findthatword
+
+display lines containing pattern
