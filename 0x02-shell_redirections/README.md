@@ -61,3 +61,7 @@ display lines containing pattern
 ## 15-countthatword
 
 count lines containing the pattern
+
+## 16-whatsnext
+
+print next lines after pattern
