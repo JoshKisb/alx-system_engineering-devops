@@ -101,3 +101,7 @@ list cut sort and do a madness
 ## 102-acrostic
 
 cut and merge
+
+## 103-the_biggest_fan
+
+cut sort uniq plus other thing
