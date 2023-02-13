@@ -81,3 +81,7 @@ character replacement
 ## 20-hiago
 
 delete characters mercilessly
+
+## 21-reverse
+
+reverse 
