@@ -21,3 +21,7 @@ display the last lines of a file
 ## 5-firstlines
 
 display the first lines of a file
+
+## 6-third_line
+
+print only the third line
