@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($bestchol#$(( $(($water#$WATER)) + $(($stir#$STIR)) )) ))
+printf '%s\n' $(($(tr -d 'a-z' <<< "$WATER") + $(tr -d 'a-z' <<< "$STIR")))
