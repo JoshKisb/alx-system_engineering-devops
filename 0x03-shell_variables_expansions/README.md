@@ -60,4 +60,8 @@ print decimal to hex
 
 ## 101-rot13
 
-rot13 cipher 
+rot13 cipher
+
+## 102-odd
+
+print every other line. skip 
