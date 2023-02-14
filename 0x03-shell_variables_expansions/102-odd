@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | xargs -n2 printf '%s%.s\n'
+cat | xargs -d '\n' -n2 printf "%s%.s\n"
