@@ -56,4 +56,8 @@ print float to 2 decimal places
 
 ## 100-decimal_to_hexadecimal
 
-print decimal to hex 
+print decimal to hex
+
+## 101-rot13
+
+rot13 cipher 
