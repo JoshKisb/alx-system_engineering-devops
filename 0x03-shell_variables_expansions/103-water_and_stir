@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' $(($(tr -d 'a-z' <<< "$WATER") + $(tr -d 'a-z' <<< "$STIR")))
+echo $(( $(tr a-z 0-9 <<< $WATER) + $(tr a-z 0-9 <<< $STIR) )) | tr 0-9 bestchol
