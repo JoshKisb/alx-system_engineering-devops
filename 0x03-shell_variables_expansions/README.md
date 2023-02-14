@@ -52,4 +52,8 @@ print all 2 character combos except oo
 
 ## 13-print_float
 
-print float to 2 decimal places 
+print float to 2 decimal places
+
+## 100-decimal_to_hexadecimal
+
+print decimal to hex 
