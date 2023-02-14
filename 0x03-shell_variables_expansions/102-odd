@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | paste - - | cut -f 1
+cat | xargs -n2 printf '%s%.s\n'
